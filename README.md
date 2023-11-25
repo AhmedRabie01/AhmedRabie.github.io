@@ -2,14 +2,21 @@
 
 
 ### Education
-Bachelor of Computer Science
+
+Bachelor of Computer Science  79%
 
 ### SKILLS
+
 Programming Langauge : Python , Java ,  C#,  OOP
+
 Mathimatics : Math for Data Science , statistics , Probability , A/B Test , Hypothesis testing 
+
 Core Skills : Machine Learning , Deep Learning , NLP , Time series
+
 Data Enginnering : SQL , Spark , MongoDB , ETL , creating  Pipelines 
+
 Data Analysis : Excel , Tableau , Power BI , Web Scriping
+
 Production : CI/CD , APIs , AWS , AZURE 
   
 ### Data Scinece projects 
