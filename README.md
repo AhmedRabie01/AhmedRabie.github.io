@@ -106,7 +106,7 @@ My objective with this project is to empower businesses to optimize their supply
 
 ### Industry Ready Project at INeuron 
 
- I worked on end-to-end data science projects for real-world business use cases. In this program, we discussed projects from scratch such as understanding problem statements, capturing requirements, and various aspects of project design using different documentation such as High-Level Design, Low-Level Design, and Architecture Design. Practical use of MLOPS practices using tools such as MLFLOW, and Wandb. Pipeline implementation for training, retraining, and inferencing. Designing a dashboard to present important KPIs to monitor system and model performance and generate an alert to notify the appropriate parties to address serious problems if it is about to occur.
+I worked on end-to-end data science projects for real-world business use cases. In this program, we discussed projects from scratch such as understanding problem statements, capturing requirements, and various aspects of project design using different documentation such as High-Level Design, Low-Level Design, and Architecture Design. Practical use of MLOPS practices using tools such as MLFLOW, and Wandb. Pipeline implementation for training, retraining, and inferencing. Designing a dashboard to present important KPIs to monitor system and model performance and generate an alert to notify the appropriate parties to address serious problems if it is about to occur.
 
 #### Sensor Fault Detection
  
@@ -117,15 +117,18 @@ The Air Pressure System (APS) is a critical component of a heavy-duty vehicle th
 ### The Sparks Foundation
 
 Working on a variety of data science tasks ML, NLP, EDA, and Time-seriesAnalysis.
-- Worked on some advanced projects such as exploratory data analysis
+
+  - Worked on some advanced projects such as exploratory data analysis
    retail task (that aimed to explore the weak areas of the work to increase
    the profit).
--[project link](https://github.com/AhmedRabie01/The-Sparks-Foundation---Data-Science-Business-Analytics-Internship/blob/main/Task%203%20Exploratory%20Data%20Analysis%20_%20Retail.ipynb)
+
+  -[project link](https://github.com/AhmedRabie01/The-Sparks-Foundation---Data-Science-Business-Analytics-Internship/blob/main/Task%203%20Exploratory%20Data%20Analysis%20_%20Retail.ipynb)
   
-- Stock Market Prediction Using Numerical and Textual Analysis tasks aimed
-  to create a hybrid model to predict the Stock market using numerical
-  analysis for historical stock data and semantic analysis of Indian news data.
--[project link](https://github.com/AhmedRabie01/The-Sparks-Foundation---Data-Science-Business-Analytics-Internship/blob/main/Task%207_%20Stock%20Market%20Prediction%20Using%20Numerical%20and%20Textual%20Analysis.ipynb)
+ - Stock Market Prediction Using Numerical and Textual Analysis tasks aimed
+   to create a hybrid model to predict the Stock market using numerical
+   analysis for historical stock data and semantic analysis of Indian news data.
+  
+ -[project link](https://github.com/AhmedRabie01/The-Sparks-Foundation---Data-Science-Business-Analytics-Internship/blob/main/Task%207_%20Stock%20Market%20Prediction%20Using%20Numerical%20and%20Textual%20Analysis.ipynb)
   
 
 
