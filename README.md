@@ -120,12 +120,12 @@ Working on a variety of data science tasks ML, NLP, EDA, and Time-seriesAnalysis
 - Worked on some advanced projects such as exploratory data analysis
    retail task (that aimed to explore the weak areas of the work to increase
    the profit).
-  [project link](https://github.com/AhmedRabie01/The-Sparks-Foundation---Data-Science-Business-Analytics-Internship/blob/main/Task%203%20Exploratory%20Data%20Analysis%20_%20Retail.ipynb)
+-[project link](https://github.com/AhmedRabie01/The-Sparks-Foundation---Data-Science-Business-Analytics-Internship/blob/main/Task%203%20Exploratory%20Data%20Analysis%20_%20Retail.ipynb)
   
 - Stock Market Prediction Using Numerical and Textual Analysis tasks aimed
   to create a hybrid model to predict the Stock market using numerical
   analysis for historical stock data and semantic analysis of Indian news data.
-  [project link](https://github.com/AhmedRabie01/The-Sparks-Foundation---Data-Science-Business-Analytics-Internship/blob/main/Task%207_%20Stock%20Market%20Prediction%20Using%20Numerical%20and%20Textual%20Analysis.ipynb)
+-[project link](https://github.com/AhmedRabie01/The-Sparks-Foundation---Data-Science-Business-Analytics-Internship/blob/main/Task%207_%20Stock%20Market%20Prediction%20Using%20Numerical%20and%20Textual%20Analysis.ipynb)
   
 
 
